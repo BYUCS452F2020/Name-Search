@@ -22,7 +22,7 @@ By prority:
 5. Name Submission Web Form
 
 ## Business
-This product could become self sustainable through allowing ads on the site with strong user demand. Account creation and in-app purchases can incentize users to buy an ad-free experience just for 99 cents for life! As well this project will include buiding out a RESTful API that could eventually be monetized. Rates could start with 1000 API calls for free accounts and rates following larger amounts of requests. Possibly crowd-fund the project.
+This product could become self sustainable through allowing ads on the site with strong user demand. Account creation and in-app purchases can incentize users to buy an ad-free experience just for 99 cents for life! As well this project will include building out a RESTful API that could eventually be monetized. Rates could start with 1000 API calls for free accounts and rates following larger amounts of requests. Possibly crowd-fund the project.
 
 ## Legal 
 The name you give your posterity goes one their legal documents, make sure its one they can be proud of! As well, if the app reaches at least the top three MVP goals then we can talk about creating a small business and LLC. 
