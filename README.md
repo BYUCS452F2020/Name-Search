@@ -5,7 +5,7 @@ A solution for Utah moms before they regret giving their child an awkwardly spel
 Looking for baby names? Trying to figure out what the heck your own name means? Want a name that will rhyme with your last name or has a specific amount of syllables? Name search will help you find what you're looking for! Name search may seem like a simple search engine, but it will have many advanced search options, based on a name's country of origin, its length in characters, sub-strings, meaning, and popularity. Many name sites are static, presenting only information. If you are building up a baby name list, you are constantly switching tabs to record a name. Name search will allow you to do that all in one place and let you create custom lists of your favorite names in real time. Eventually this data could be downloaded or exported as a .csv or spreadsheet. If you can't find the name you are looking for then you will also be able to submit one and have it added to the Name Search Database.
 
 ## Team
-Just me so far. 1 more person could be enough for this project, if more are interested then possibly another.
+Just me so far. 1 more person could be enough for this project, if more are interested then possibly another. PM me on Slack if you are interested. :)
 
 ## SQL
 I am most familiar with postgreSQL and using an open source program called DBeaver to interface with the database.
